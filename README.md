@@ -5,6 +5,7 @@ In this project I have built a Regression model, Artificial Neural Network, Deci
 
 # Data
 * [Data Source](https://www.kaggle.com/mohansacharya/graduate-admissions)
+
 |Column|Value Range|
 |--|--|
 |GRE Score|Out of 340|
