@@ -1,10 +1,12 @@
 # University Admission Prediction
-This project aims at predicting the probability of students with different characteristics being accepted in a University.
+This project aims at predicting the probability of students with different characteristics being accepted in a University based on their profile.
 
-In this project I have built a Regression model, Artificial Neural Network, Decision Tree and Random Forest models.
+In this project I have built a Regression model, Artificial Neural Network, Decision Tree and Random Forest models for prediction.
 
 # Data
 * [Data Source](https://www.kaggle.com/mohansacharya/graduate-admissions)
+
+* Input Variable
 
 |Column|Value Range|
 |--|--|
@@ -15,4 +17,9 @@ In this project I have built a Regression model, Artificial Neural Network, Deci
 |LOR (Strength)|1 - 5|
 |CGPA|Out of 10|
 |Research Experience|0 (no) or 1 (yes)|
-|Chance of Admit (Target Variable)|ranging form 0 (no) to 1 (yes)|
+
+* Target Variable
+
+|Column|Value Range|
+|--|--|
+|Chance of Admit|0 (no) to 1 (yes)|
